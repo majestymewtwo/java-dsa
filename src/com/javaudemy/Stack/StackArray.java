@@ -1,4 +1,4 @@
-package com.javaudemy;
+package com.javaudemy.Stack;
 
 import java.util.ArrayList;
 

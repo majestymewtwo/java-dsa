@@ -1,16 +1,9 @@
-package com.javaudemy;
+package com.javaudemy.LL;
 
 import java.util.HashSet;
 import java.util.Set;
 
 public class LinkedList {
-    class Node {
-        int value;
-        Node next;
-        Node(int value){
-            this.value = value;
-        }
-    }
     private Node head;
     private Node tail;
     private int length;

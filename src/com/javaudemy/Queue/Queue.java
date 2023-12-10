@@ -1,13 +1,7 @@
-package com.javaudemy;
+package com.javaudemy.Queue;
 
 public class Queue {
-    class Node{
-        int value;
-        Node next;
-        Node(int value){
-            this.value = value;
-        }
-    }
+
     private Node first;
     private Node last;
     private int length;
